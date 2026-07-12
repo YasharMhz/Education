@@ -265,7 +265,6 @@ def update_book(book_id: int, book_update: BookUpdate):
         "message": "Book not found"
     }
 
-
 # What is a Router?
 # Think of a router as a mini FastAPI application.
 # Main application:
