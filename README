@@ -1,11 +1,20 @@
-# Python Backend Education
+# Python Learning Journey
 
-My learning journey for Python Backend Development.
+My personal repository for learning Python,
+Backend development and AI.
 
 ## Topics
-
+- Python Fundamentals
+- Object Oriented Programming
+- File Handling
+- Exceptions
+- Concurrency
 - FastAPI
 - HTTP Methods
 - Async Programming
 - Threading
 - Multiprocessing
+
+## Goal
+
+Become a Python Backend / AI Developer.
