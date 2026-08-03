@@ -174,7 +174,7 @@
 # Request 2 -> read .env
 # Request 3 -> read .env
 # With caching:
-# Start app -> read .env once
+# Start app → read .env once
 #
 
 # Using Settings with Depends
@@ -234,91 +234,3 @@
 # ├── main.py
 # ├── config.py
 # └── .env
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Python-Learning-Journey
-# │
-# │
-# │
-# ├── 01_basics/
-# │   ├── basics.py
-# │
-# │
-# ├── 02_functions/
-# │   ├── functions.py
-# │
-# │
-# │
-# ├── 03_data_structures/
-# │   ├── dictionaris.py
-# │   ├── generators.py
-# │   ├── lists.py
-# │   ├── sets.py
-# │   └── tuples.py
-# │
-# │
-# ├── 04_oop/
-# │   ├── abstract_classes.py
-# │   ├── classes.py
-# │   ├── inheritance.py
-# │   └── polymorphism.py
-# │
-# │
-# ├── 05_05_error_handling/
-# │   ├── exceptions.py
-# │
-# │
-# ├── 06_06_files_and_modules/
-# │   ├── files.py
-# │   ├── json_csv.py
-# │   ├── modules.py
-# │   └── pathlib.py
-# │
-# │
-# ├── 07_07_standard_library/
-# │   ├── datetime_module.py
-# │   ├── random_module.py
-# │   ├── sys_module.py
-# │   └── time_module.py
-# │
-# │
-# ├── Concurrency/
-# │   ├── async.py
-# │   ├── multi_processing.py
-# │   └── threading.py
-# │
-# ├── FastAPI/
-# │   ├── Configuration&EnvironmentVariables/
-# │     ├── .env
-# │     ├── comment.py
-# │     ├── config.py
-# │     └── main.py
-# │
-# │
-# │   ├── api_router,project_structure.py
-# │   ├── dependency_injection(Depends).py
-# │   ├── http_methods.py
-# │   ├── main.py
-# │   ├── response_models.py
-# │   ├── status_codes,http_exceptions.py
-# │
-# │
-# │   ├── README
-#
