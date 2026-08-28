@@ -4,6 +4,16 @@ This guide explains how to manage application configuration using **Environment 
 
 ---
 
+# 📌 Before You Start
+
+If you're using a virtual environment, activate it first:
+
+```bash
+source .venv/bin/activate
+```
+
+---
+
 # 🤔 What Are Environment Variables?
 
 Environment variables are configuration values stored **outside your application code**.
